@@ -28,9 +28,9 @@ I am Md. Sohag, a dedicated and enthusiastic React front-end developer with know
 ## :mailbox: Reach me out
 <br />
 <p align="center" style="display:flex; justify-content:center ; gap: 15px; align-items:center">
-<a href="https://linkedin.com/in/" target="_blank"><img align="center" src="./Image/linkedin.svg" alt="shakilahmedatik" height="70" width="70" /></a>
+<a href="https://linkedin.com/in/ohidurSohag" target="_blank"><img align="center" src="./Image/linkedin.svg" alt="shakilahmedatik" height="70" width="70" /></a>
 <a href=https://www.facebook.com/Sohag9595/ target="_blank"><img align="center" src="./Image/facebook.svg" alt="shakilahmedatik" height="70" width="70" /></a>
-<a href="https://twitter.com/" target="_blank"><img align="center" src="./Image/twitter.svg" alt="shakilahmedatik" height="70" width="70" /></a>
+<a href="https://twitter.com/ohidurSohag" target="_blank"><img align="center" src="./Image/twitter.svg" alt="shakilahmedatik" height="70" width="70" /></a>
 </p>
 <br />
 
