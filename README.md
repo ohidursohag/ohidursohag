@@ -18,9 +18,12 @@
 </p>
 
 ## :mailbox: Reach me out
-[<p align="center"><img style="margin-right:10px" height="75" src="./Image/linkedin.svg">](https://www.linkedin.com/in/)
-[<img height="75" style="margin-right:10px" src="./Image/facebook.svg">](https://www.facebook.com/)
-[<img height="75" src="./Image/twitter.svg"> </p>](https://twitter.com/)
+<p align="center">
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="./Image/linkedin.svg" alt="shakilahmedatik" height="70" width="70" /></a>
+<a href=https://www.facebook.com/Sohag9595/ target="blank"><img align="center" src="./Image/facebook.svg" alt="shakilahmedatik" height="70" width="70" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="./Image/twitter.svg" alt="shakilahmedatik" height="70" width="70" /></a>
+</p>
+
 
 **ohidursohag/ohidursohag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
