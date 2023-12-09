@@ -3,6 +3,10 @@
 
 <h1 align="center">Hi <img src = "./Image/hi.gif" width="50px" height="50px">, I'm Sohag</h1> 
 <h3 align="center">A passionate front-end web developer from 🇧🇩</h3>  
+<br/>   
+I am Md. Sohag, a dedicated and enthusiastic React front-end developer with knowledge of full-stack development. With a keen eye for detail and six months of dedicated learning, I've immersed myself in the world of web development, specializing in React.js for front-end development. I also possess knowledge of Express.js for server-side development and MongoDB for working with databases. This allows me to tackle end-to-end development tasks and build robust, scalable web applications.   
+<br/>
+<br/>
 
 ## :chart_with_upwards_trend: Current Status
 <br />
@@ -23,7 +27,7 @@
 
 ## :mailbox: Reach me out
 <br />
-<p align="center">
+<p align="center" style="display:flex; justify-content:center ; gap: 15px; align-items:center">
 <a href="https://linkedin.com/in/" target="_blank"><img align="center" src="./Image/linkedin.svg" alt="shakilahmedatik" height="70" width="70" /></a>
 <a href=https://www.facebook.com/Sohag9595/ target="_blank"><img align="center" src="./Image/facebook.svg" alt="shakilahmedatik" height="70" width="70" /></a>
 <a href="https://twitter.com/" target="_blank"><img align="center" src="./Image/twitter.svg" alt="shakilahmedatik" height="70" width="70" /></a>
@@ -33,13 +37,23 @@
 ## :computer: Technologies that I know
 
 <br />
-<p align="center" style="display:flex; justify-content:center ; gap: 15px; align-items:center">
+<p  align="center" style="display:flex; justify-content:center ; gap: 15px; align-items:center">
 <img height="60" width="60" src="./Image/html.svg"/>
 <img height="60" width="60" src="./Image/css.svg"/>
 <img height="60" width="60" src="./Image/javascript.svg"/>
 <img height="60" width="60" src="./Image/react.svg"/>
 <img height="60" width="60" src="./Image/firebase.svg"/>
 <img height="60" width="60" src="./Image/nodeJs.svg"/>
+<img height="60" width="60" src="./Image/express-js.svg"/>
+<img height="60" width="60" src="./Image/mongoDb.svg"/>
+</p>
+<br />
+
+## :computer: Technologies that currently learning
+
+<br />
+<p  align="center" style="display:flex; justify-content:center ; gap: 15px; align-items:center">
+<img height="60" width="60" src="./Image/nodeJs.svg"/> 
 <img height="60" width="60" src="./Image/express-js.svg"/>
 <img height="60" width="60" src="./Image/mongoDb.svg"/>
 </p>
