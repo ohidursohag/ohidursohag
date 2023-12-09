@@ -10,9 +10,9 @@
 </p>
 
 
-<p align="center" style="display:flex; gap:20px;justify-content:center; align-items:center">
-<img align="center" style="height:150px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ohidursohag&show_icons=true&theme=dark&locale=en&layout=compact&border_color=C822FF&bg_color=00000000&text_color=FFFFFF&title_color=C822FF" alt="ohidursohag" />
-<img style="height:150px" align="center"  src="https://github-readme-stats.vercel.app/api?username=ohidursohag&show_icons=true&theme=radical&locale=en&layout=donut-vertical&border_color=C822FF" alt="ohidursohag" />
+<p align="center" style="display:flex; gap:30px;justify-content:center; align-items:center">
+<img align="center" style="height:170px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ohidursohag&show_icons=true&theme=dark&locale=en&layout=compact&border_color=C822FF&bg_color=00000000&text_color=FFFFFF&title_color=C822FF" alt="ohidursohag" />
+<img style="height:170px" align="center"  src="https://github-readme-stats.vercel.app/api?username=ohidursohag&show_icons=true&theme=radical&locale=en&layout=donut-vertical&border_color=C822FF&title_color=C822FF&bg_color=00000000" alt="ohidursohag" />
 </p>
 
 
