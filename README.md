@@ -74,8 +74,6 @@ I am Md. Sohag, a dedicated and enthusiastic React front-end developer with know
 
 ## :eyes: Current overview
 
-Here are some ideas to get you started:
-
 ### 🌱 I’m currently learning - node.js, express.js, mongo db
 ### 👯 I’m looking to collaborate on - To collaborate on open source projects.
 ### 🔭 I’m currently exploring - Advance React js
