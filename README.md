@@ -10,10 +10,11 @@
 </p>
 
 
-<p align="center"><img  align="center" height="250" src="https://github-readme-stats.vercel.app/api?username=ohidursohag&show_icons=true&theme=radical&locale=en&layout=donut-vertical&border_color=C822FF" alt="ohidursohag" /></p>
-<p align="center">
-<img align="center"   src="https://github-readme-stats.vercel.app/api/top-langs?username=ohidursohag&show_icons=true&theme=radical&locale=en&layout=donut-vertical&border_color=C822FF" alt="ohidursohag" />
+<p align="center" style="display:flex; gap:20px;justify-content:center; align-items:center">
+<img align="center" style="height:300px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ohidursohag&show_icons=true&theme=dark&locale=en&layout=donut-vertical&border_color=C822FF&bg_color=00000000&text_color=FFFFFF&title_color=C822FF" alt="ohidursohag" />
+<img style="height:300px" align="center"  src="https://github-readme-stats.vercel.app/api?username=ohidursohag&show_icons=true&theme=radical&locale=en&layout=donut-vertical&border_color=C822FF" alt="ohidursohag" />
 </p>
+
 
 
 **ohidursohag/ohidursohag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
