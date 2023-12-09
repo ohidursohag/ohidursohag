@@ -41,6 +41,7 @@ I am Md. Sohag, a dedicated and enthusiastic React front-end developer with know
 <img height="60" width="60" src="./Image/html.svg"/>
 <img height="60" width="60" src="./Image/css.svg"/>
 <img height="60" width="60" src="./Image/javascript.svg"/>
+<img height="60" width="60" src="./Image/tailwind.svg"/>
 <img height="60" width="60" src="./Image/react.svg"/>
 <img height="60" width="60" src="./Image/firebase.svg"/>
 <img height="60" width="60" src="./Image/nodeJs.svg"/>
@@ -71,16 +72,13 @@ I am Md. Sohag, a dedicated and enthusiastic React front-end developer with know
 <br />
 
 
-**ohidursohag/ohidursohag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :eyes: Current overview
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌱 I’m currently learning - node.js, express.js, mongo db
+### 👯 I’m looking to collaborate on - To collaborate on open source projects.
+### 🔭 I’m currently exploring - Advance React js
+### 🤔 I’m looking for help with ...
+
 
