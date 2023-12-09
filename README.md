@@ -3,6 +3,8 @@
 
 <h1 align="center">Hi <img src = "./Image/hi.gif" width="50px" height="50px">, I'm Sohag</h1> 
 <h3 align="center">A passionate front-end web developer from 🇧🇩</h3>  
+
+## :chart_with_upwards_trend: Current Stats
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ohidursohag&theme=radical&title=Repository,Commit,Experience&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" alt="ohidursohag" /></a> </p>
 <!-- Stars,Followers,PullRequest -->
 <p align="center">
