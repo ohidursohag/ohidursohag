@@ -31,15 +31,31 @@
 <br />
 
 ## :computer: Technologies that I know
-<p align="center">
+
+<br />
+<p align="center" style="display:flex; justify-content:center ; gap: 15px; align-items:center">
 <img height="60" width="60" src="./Image/html.svg"/>
 <img height="60" width="60" src="./Image/css.svg"/>
 <img height="60" width="60" src="./Image/javascript.svg"/>
 <img height="60" width="60" src="./Image/react.svg"/>
+<img height="60" width="60" src="./Image/firebase.svg"/>
 <img height="60" width="60" src="./Image/nodeJs.svg"/>
 <img height="60" width="60" src="./Image/express-js.svg"/>
 <img height="60" width="60" src="./Image/mongoDb.svg"/>
 </p>
+<br />
+
+## :computer: Technologies I want to learn next
+<br />
+<p align="center" style="display:flex; justify-content:center ; gap: 15px; align-items:center">
+<img height="60" width="60" src="./Image/nextJs.svg"/>
+<img height="60" width="60" src="./Image/materialUi.svg"/>
+<img height="60" width="60" src="./Image/redux.svg"/>
+<img height="60" width="60" src="./Image/TypeScript.svg"/>
+<img height="60" width="60" src="./Image/Figma.svg"/>
+</p>
+<br />
+
 
 **ohidursohag/ohidursohag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
