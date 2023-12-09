@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src = "./Image/hi.gif" width="50px" height="50px">, I'm Sohag</h1> 
 <h3 align="center">A passionate front-end web developer from 🇧🇩</h3>  
 
-## :chart_with_upwards_trend: Current Stats
+## :chart_with_upwards_trend: Current Status
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ohidursohag&theme=radical&title=Repository,Commit,Experience&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" alt="ohidursohag" /></a> </p>
 <!-- Stars,Followers,PullRequest -->
 <p align="center">
@@ -17,7 +17,10 @@
 <img style="height:170px" align="center"  src="https://github-readme-stats.vercel.app/api?username=ohidursohag&show_icons=true&theme=radical&locale=en&layout=donut-vertical&border_color=C822FF&title_color=C822FF&bg_color=00000000" alt="ohidursohag" />
 </p>
 
-
+## :mailbox: Reach me out
+[<p align="center"><img style="margin-right:10px" height="75" src="./Image/linkedin.svg">](https://www.linkedin.com/in/)
+[<img height="75" style="margin-right:10px" src="./Image/facebook.svg">](https://www.facebook.com/)
+[<img height="75" src="./Image/twitter.svg"> </p>](https://twitter.com/)
 
 **ohidursohag/ohidursohag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
